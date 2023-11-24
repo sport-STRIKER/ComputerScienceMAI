@@ -1,36 +1,22 @@
 #include <iostream>
+#include "CheckStr.h"
+
 using namespace std;
 
-bool CheckStr(string s)
-{
-    int level = 0;
-    for (int i = 0; i < s.length(); ++i)
-    {
-        if (s[i] == '(')
-            ++level;
-        else if (s[i] == ')')
-            --level;
-        else
-            return false;
-    }
-    
-    if (level != 0)
-        return false;
-
-    return true;
-}
 
 void Output()
-{
-    string s;
-    cin >> s;
-
-    cout << "Check is over\n";
+{    
+    cout << "Start check" << endl;
     
-    if (CheckStr(s))
+    string line;
+    cin >> line;
+        
+    if (CheckStr(line))
         cout << "Ok" << endl;
     else
         cout << "Not ok" << endl;
+    
+    
 }
 
 int main() 
