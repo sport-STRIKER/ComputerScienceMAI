@@ -1,0 +1,171 @@
+Start testing: Mar 06 00:11 MSK
+----------------------------------------------------------
+1/1 Testing: BASIC
+1/1 Test: BASIC
+Command: "/Users/t2/Desktop/Study/OOP/lab2/tests"
+Directory: /Users/t2/Desktop/Study/OOP/lab2
+"BASIC" start time: Mar 06 00:11 MSK
+Output:
+----------------------------------------------------------
+[==========] Running 53 tests from 9 test suites.
+[----------] Global test environment set-up.
+[----------] 7 tests from test_01
+[ RUN      ] test_01.defaultConstructor
+[       OK ] test_01.defaultConstructor (0 ms)
+[ RUN      ] test_01.fillConstructor
+[       OK ] test_01.fillConstructor (0 ms)
+[ RUN      ] test_01.fillConstructor2
+[       OK ] test_01.fillConstructor2 (0 ms)
+[ RUN      ] test_01.initializerListConstructor
+[       OK ] test_01.initializerListConstructor (0 ms)
+[ RUN      ] test_01.copyStringConstructor
+[       OK ] test_01.copyStringConstructor (0 ms)
+[ RUN      ] test_01.copyConstructor
+[       OK ] test_01.copyConstructor (0 ms)
+[ RUN      ] test_01.moveConstructor
+[       OK ] test_01.moveConstructor (0 ms)
+[----------] 7 tests from test_01 (0 ms total)
+
+[----------] 3 tests from test_02
+[ RUN      ] test_02.thorwFillConstructor
+[       OK ] test_02.thorwFillConstructor (0 ms)
+[ RUN      ] test_02.throwInitializerListConstructor
+[       OK ] test_02.throwInitializerListConstructor (0 ms)
+[ RUN      ] test_02.throwCopyStringConstructor
+[       OK ] test_02.throwCopyStringConstructor (0 ms)
+[----------] 3 tests from test_02 (0 ms total)
+
+[----------] 3 tests from test_03
+[ RUN      ] test_03.equal
+[       OK ] test_03.equal (0 ms)
+[ RUN      ] test_03.equalDifferentLength
+[       OK ] test_03.equalDifferentLength (0 ms)
+[ RUN      ] test_03.equalDifferentValues
+[       OK ] test_03.equalDifferentValues (0 ms)
+[----------] 3 tests from test_03 (0 ms total)
+
+[----------] 3 tests from test_04
+[ RUN      ] test_04.moreForEquals
+[       OK ] test_04.moreForEquals (0 ms)
+[ RUN      ] test_04.more
+[       OK ] test_04.more (0 ms)
+[ RUN      ] test_04.moreDifferentLength
+[       OK ] test_04.moreDifferentLength (0 ms)
+[----------] 3 tests from test_04 (0 ms total)
+
+[----------] 3 tests from test_05
+[ RUN      ] test_05.lessForEquals
+[       OK ] test_05.lessForEquals (0 ms)
+[ RUN      ] test_05.less
+[       OK ] test_05.less (0 ms)
+[ RUN      ] test_05.lessDifferentLength
+[       OK ] test_05.lessDifferentLength (0 ms)
+[----------] 3 tests from test_05 (0 ms total)
+
+[----------] 9 tests from test_06
+[ RUN      ] test_06.sum
+[       OK ] test_06.sum (0 ms)
+[ RUN      ] test_06.sumZeros
+[       OK ] test_06.sumZeros (0 ms)
+[ RUN      ] test_06.sum2
+[       OK ] test_06.sum2 (0 ms)
+[ RUN      ] test_06.sumDifferentLength
+[       OK ] test_06.sumDifferentLength (0 ms)
+[ RUN      ] test_06.sumDifferentLength2
+[       OK ] test_06.sumDifferentLength2 (0 ms)
+[ RUN      ] test_06.sumOver
+/Users/t2/Desktop/Study/OOP/lab2/test1.cpp:203: Failure
+Value of: t1.sum(t2).equals(t3)
+  Actual: false
+Expected: true
+
+[  FAILED  ] test_06.sumOver (0 ms)
+[ RUN      ] test_06.sumOver2
+[       OK ] test_06.sumOver2 (0 ms)
+[ RUN      ] test_06.sumZero
+[       OK ] test_06.sumZero (0 ms)
+[ RUN      ] test_06.sumZero2
+[       OK ] test_06.sumZero2 (0 ms)
+[----------] 9 tests from test_06 (0 ms total)
+
+[----------] 9 tests from test_07
+[ RUN      ] test_07.add
+[       OK ] test_07.add (0 ms)
+[ RUN      ] test_07.addZeros
+[       OK ] test_07.addZeros (0 ms)
+[ RUN      ] test_07.add2
+[       OK ] test_07.add2 (0 ms)
+[ RUN      ] test_07.addDifferentLength
+[       OK ] test_07.addDifferentLength (0 ms)
+[ RUN      ] test_07.addDifferentLength2
+[       OK ] test_07.addDifferentLength2 (0 ms)
+[ RUN      ] test_07.addOver
+[       OK ] test_07.addOver (0 ms)
+[ RUN      ] test_07.addOver3
+/Users/t2/Desktop/Study/OOP/lab2/test1.cpp:305: Failure
+Value of: t1.equals(t3)
+  Actual: false
+Expected: true
+
+[  FAILED  ] test_07.addOver3 (0 ms)
+[ RUN      ] test_07.addZero
+[       OK ] test_07.addZero (0 ms)
+[ RUN      ] test_07.addZero2
+[       OK ] test_07.addZero2 (0 ms)
+[----------] 9 tests from test_07 (0 ms total)
+
+[----------] 8 tests from test_08
+[ RUN      ] test_08.subtractionError
+[       OK ] test_08.subtractionError (0 ms)
+[ RUN      ] test_08.subtractionError2
+[       OK ] test_08.subtractionError2 (0 ms)
+[ RUN      ] test_08.subtraction
+[       OK ] test_08.subtraction (0 ms)
+[ RUN      ] test_08.subtractionZeros
+[       OK ] test_08.subtractionZeros (0 ms)
+[ RUN      ] test_08.subtractionExtra
+[       OK ] test_08.subtractionExtra (0 ms)
+[ RUN      ] test_08.subtractionExtra2
+[       OK ] test_08.subtractionExtra2 (0 ms)
+[ RUN      ] test_08.subtractionZero
+[       OK ] test_08.subtractionZero (0 ms)
+[ RUN      ] test_08.subtractionAll
+[       OK ] test_08.subtractionAll (0 ms)
+[----------] 8 tests from test_08 (0 ms total)
+
+[----------] 8 tests from test_09
+[ RUN      ] test_09.removeError
+[       OK ] test_09.removeError (0 ms)
+[ RUN      ] test_09.removeError2
+[       OK ] test_09.removeError2 (0 ms)
+[ RUN      ] test_09.remove
+[       OK ] test_09.remove (0 ms)
+[ RUN      ] test_09.removeZeros
+[       OK ] test_09.removeZeros (0 ms)
+[ RUN      ] test_09.removeExtra
+[       OK ] test_09.removeExtra (0 ms)
+[ RUN      ] test_09.removeExtra2
+[       OK ] test_09.removeExtra2 (0 ms)
+[ RUN      ] test_09.removeZero
+[       OK ] test_09.removeZero (0 ms)
+[ RUN      ] test_09.removeAll
+[       OK ] test_09.removeAll (0 ms)
+[----------] 8 tests from test_09 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 53 tests from 9 test suites ran. (0 ms total)
+[  PASSED  ] 51 tests.
+[  FAILED  ] 2 tests, listed below:
+[  FAILED  ] test_06.sumOver
+[  FAILED  ] test_07.addOver3
+
+ 2 FAILED TESTS
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"BASIC" end time: Mar 06 00:11 MSK
+"BASIC" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 06 00:11 MSK

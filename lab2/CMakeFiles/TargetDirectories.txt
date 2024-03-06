@@ -1,0 +1,6 @@
+/Users/t2/Desktop/Study/OOP/lab2/CMakeFiles/lab_02_lib.dir
+/Users/t2/Desktop/Study/OOP/lab2/CMakeFiles/lab_02_exe.dir
+/Users/t2/Desktop/Study/OOP/lab2/CMakeFiles/tests.dir
+/Users/t2/Desktop/Study/OOP/lab2/CMakeFiles/test.dir
+/Users/t2/Desktop/Study/OOP/lab2/CMakeFiles/edit_cache.dir
+/Users/t2/Desktop/Study/OOP/lab2/CMakeFiles/rebuild_cache.dir
