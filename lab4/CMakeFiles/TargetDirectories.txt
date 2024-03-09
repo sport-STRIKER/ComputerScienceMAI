@@ -1,0 +1,5 @@
+/home/david/oop/lab4/CMakeFiles/rebuild_cache.dir
+/home/david/oop/lab4/CMakeFiles/edit_cache.dir
+/home/david/oop/lab4/CMakeFiles/test.dir
+/home/david/oop/lab4/CMakeFiles/tests.dir
+/home/david/oop/lab4/CMakeFiles/main.dir
