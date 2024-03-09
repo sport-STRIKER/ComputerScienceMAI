@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/david/oop/lab5/include/allocator.h
+array
+-
+stdexcept
+-
+cstdint
+-
+vector
+-
+
+/home/david/oop/lab5/include/iterator.h
+
+/home/david/oop/lab5/include/list.h
+iostream
+-
+allocator.h
+/home/david/oop/lab5/include/allocator.h
+iterator.h
+/home/david/oop/lab5/include/iterator.h
+
+/home/david/oop/lab5/main.cpp
+iostream
+-
+include/allocator.h
+/home/david/oop/lab5/include/allocator.h
+include/iterator.h
+/home/david/oop/lab5/include/iterator.h
+include/list.h
+/home/david/oop/lab5/include/list.h
+map
+-
+vector
+-
+
