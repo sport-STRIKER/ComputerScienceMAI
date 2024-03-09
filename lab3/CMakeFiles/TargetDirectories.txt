@@ -1,0 +1,6 @@
+/home/david/oop/lab3/CMakeFiles/rebuild_cache.dir
+/home/david/oop/lab3/CMakeFiles/edit_cache.dir
+/home/david/oop/lab3/CMakeFiles/test.dir
+/home/david/oop/lab3/CMakeFiles/tests.dir
+/home/david/oop/lab3/CMakeFiles/main.dir
+/home/david/oop/lab3/CMakeFiles/lab_03_lib.dir
