@@ -1,0 +1,142 @@
+
+MuskratType 5 убил BearType 8
+
+MuskratType 9 убил BearType 39
+
+MuskratType 5 убил BearType 45
+
+MuskratType 7 убил BearType 14
+
+MuskratType 15 убил BearType 11
+
+MuskratType 17 убил BearType 6
+
+MuskratType 21 убил BearType 41
+
+MuskratType 31 убил BearType 12
+
+MuskratType 36 убил BearType 33
+
+MuskratType 50 убил BearType 49
+
+BearType 43 убил MuskratType 5
+
+MuskratType 9 убил BearType 29
+
+MuskratType 9 убил BearType 43
+
+MuskratType 18 убил BearType 3
+
+MuskratType 22 убил BearType 1
+
+MuskratType 25 убил BearType 24
+
+OrcType 19 убил BearType 8
+
+OrcType 22 убил BearType 49
+
+OrcType 25 убил BearType 45
+
+OrcType 28 убил OrcType 35
+
+OrcType 31 убил BearType 6
+
+OrcType 36 убил OrcType 18
+
+OrcType 36 убил OrcType 42
+
+OrcType 40 убил OrcType 5
+
+OrcType 40 убил BearType 39
+
+OrcType 46 убил OrcType 50
+
+OrcType 48 убил OrcType 26
+
+OrcType 48 убил BearType 24
+
+OrcType 48 убил OrcType 7
+
+OrcType 48 убил OrcType 46
+
+OrcType 9 убил OrcType 38
+
+BearType 14 убил SquirrelType 47
+
+OrcType 16 убил BearType 33
+
+OrcType 19 убил BearType 3
+
+OrcType 48 убил OrcType 15
+
+OrcType 48 убил OrcType 40
+
+OrcType 48 убил BearType 11
+
+OrcType 48 убил OrcType 9
+
+OrcType 48 убил BearType 14
+
+BearType 41 убил SquirrelType 4
+
+OrcType 36 убил OrcType 31
+
+OrcType 48 убил BearType 43
+
+OrcType 48 убил OrcType 22
+
+OrcType 48 убил OrcType 21
+
+OrcType 19 убил BearType 8
+
+OrcType 22 убил BearType 49
+
+OrcType 25 убил OrcType 5
+
+OrcType 25 убил BearType 45
+
+OrcType 26 убил BearType 24
+
+OrcType 28 убил OrcType 18
+
+OrcType 28 убил OrcType 35
+
+OrcType 31 убил BearType 6
+
+OrcType 36 убил OrcType 42
+
+OrcType 38 убил OrcType 50
+
+OrcType 40 убил OrcType 25
+
+OrcType 40 убил BearType 39
+
+OrcType 46 убил OrcType 38
+
+OrcType 48 убил OrcType 26
+
+OrcType 48 убил OrcType 9
+
+OrcType 48 убил OrcType 40
+
+OrcType 48 убил OrcType 7
+
+BearType 3 убил SquirrelType 4
+
+OrcType 48 убил BearType 11
+
+OrcType 48 убил OrcType 15
+
+OrcType 28 убил BearType 12
+
+OrcType 48 убил BearType 41
+
+OrcType 31 убил BearType 43
+
+OrcType 36 убил OrcType 31
+
+OrcType 48 убил OrcType 22
+
+OrcType 16 убил OrcType 19
+
+OrcType 48 убил OrcType 21

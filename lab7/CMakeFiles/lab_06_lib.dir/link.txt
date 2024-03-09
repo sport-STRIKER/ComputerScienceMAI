@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblab_06_lib.a  CMakeFiles/lab_06_lib.dir/src/bear.cpp.o CMakeFiles/lab_06_lib.dir/src/factory.cpp.o CMakeFiles/lab_06_lib.dir/src/fight.cpp.o CMakeFiles/lab_06_lib.dir/src/npc.cpp.o CMakeFiles/lab_06_lib.dir/src/observerConsole.cpp.o CMakeFiles/lab_06_lib.dir/src/observerFile.cpp.o CMakeFiles/lab_06_lib.dir/src/orc.cpp.o CMakeFiles/lab_06_lib.dir/src/squirrel.cpp.o
+/usr/bin/ranlib liblab_06_lib.a
