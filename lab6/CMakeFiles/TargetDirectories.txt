@@ -1,0 +1,6 @@
+/home/david/oop/lab6/CMakeFiles/rebuild_cache.dir
+/home/david/oop/lab6/CMakeFiles/edit_cache.dir
+/home/david/oop/lab6/CMakeFiles/test.dir
+/home/david/oop/lab6/CMakeFiles/tests.dir
+/home/david/oop/lab6/CMakeFiles/main.dir
+/home/david/oop/lab6/CMakeFiles/lab_06_lib.dir

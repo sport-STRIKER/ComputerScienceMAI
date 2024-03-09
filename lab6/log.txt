@@ -1,0 +1,18 @@
+
+OrcType 7 убил OrcType 9
+
+OrcType 9 убил OrcType 7
+
+OrcType 5 убил BearType 1
+
+OrcType 5 убил BearType 8
+
+BearType 6 убил SquirrelType 4
+
+BearType 6 убил SquirrelType 10
+
+OrcType 5 убил BearType 3
+
+BearType 6 убил SquirrelType 2
+
+OrcType 5 убил BearType 6
