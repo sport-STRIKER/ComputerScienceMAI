@@ -1,7 +1,7 @@
 DROP TABLE IF EXISTS data;
 
 CREATE TABLE main_data (
-    id SERIAL PRIMARY KEY, -- Автоинкремент
+    id SERIAL PRIMARY KEY, 
     customer_first_name TEXT,
     customer_last_name TEXT,
     customer_age INT,
